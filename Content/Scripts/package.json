@@ -1,0 +1,18 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "Interface between Neurosity Cloud and Unreal Engine",
+  "main": "NeurosityInterfacer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Notion"
+  ],
+  "author": "Diego Saldivar",
+  "license": "MIT",
+  "dependencies": {
+    "@neurosity/notion": "^5.6.0",
+    "dotenv": "^10.0.0"
+  }
+}
