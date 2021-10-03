@@ -11,6 +11,8 @@ UE5 Neurogame Template using Neurosity and experimental NodeJS plugin. See how t
 ## What can you do with it?
 
 You can log into your device and play some games with it. Take care to stop the script between levels as you continue making more levels!
+The neurogame example level uses the Calm score to make a sphere float and the focus score to make a cube glow brighter.
+
 The template may be a bit rushed but I wanted to share my progress with ther interested game designers.
 Be sure to add your name to the credits before you push any innovations.
 
