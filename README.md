@@ -50,8 +50,9 @@ Beware, the Node.js plugin does not stop scripts when a Node instance is destroy
 8. Create a *Scripts* folder inside the *{Your Project Root}/Contents* folder. The name and location is very important for the plugin to run.
 9. Copy/paste the *node_modules* folder from *{Your Project Root}/Plugins/nodejs-ue4/Content/Scripts* folder to your *{Your Project Root}/Contents/Scripts* folder.
 10. Follow the setup instructions and install dependencies in your *{Your Project Root}/Contents/Scripts* folder, just as you would in [Your First Node App](https://docs.neurosity.co/docs/getting-started) example project. Ignore the section where you authenticate with an .env file. The plugin doesn't support that workflow.
-11. Open your project in Unreal Engine. It is not necessary to "Import Changes", but make sure the Node.js and the SocketIO plugins are enabled.
-12. You're good to start your own journey! Check this very example project or [getnamo's examples](https://github.com/getnamo/nodejs-ue4) to figure out how to use [Neurosity's SDK](https://docs.neurosity.co/docs/overview) with the Node.js plugin.
+11. Add your Unreal Project path to your environment variables.
+12. Open your project in Unreal Engine. It is not necessary to "Import Changes", but make sure the Node.js and the SocketIO plugins are enabled.
+13. You're good to start your own journey! Check this very example project or [getnamo's examples](https://github.com/getnamo/nodejs-ue4) to figure out how to use [Neurosity's SDK](https://docs.neurosity.co/docs/overview) with the Node.js plugin.
 
 ## Packaging
 
@@ -61,6 +62,7 @@ Make sure to add the folder where your project Scripts are as additional non-ass
 
 ## Caveats
 
+- You need to add the Unreal Engine project path to your Environment Variables.
 - You won't be able to see your javascripts inside the UE editor. You'll have to access them from the file explorer and open them in your favorite code editor.
 - The experimental Node.js plugin can only package games for Windows and that even [is buggy](https://github.com/getnamo/nodejs-ue4/issues/35).
 
