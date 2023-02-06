@@ -17,7 +17,7 @@ Oh, the pause button is **P**, by the way.
 The template may be a bit rushed but I wanted to share my progress with ther interested game designers.
 Be sure to add your name to the credits before you push any innovations.
 
-## The shoulders of giants
+## External Assets
 
 This project was built upon the hard work of others. As such, it is also dependent on the scrutiny and update of the tools they so generously provide. Make sure to check their sites and repositories if you want to upgrade your own project or if you want to try your hand at older versions of Unreal Engine.
 
