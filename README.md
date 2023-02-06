@@ -25,7 +25,7 @@ This project was built upon the hard work of others. As such, it is also depende
 
 - Thanks to [Jan Kaniewski](https://github.com/getnamo) for developing the [Node.js plugin](https://github.com/getnamo/nodejs-ue4) for Unreal Engine 5. 
 
-- Thanks to Epic Games, Inc. for making [Unreal Engine 5](https://www.unrealengine.com/) accessible for everyone.
+- Thanks to Epic Games, Inc. for making [Unreal Engine 5](https://www.unrealengine.com/) accessible for everyone and for offering default assets.
 
 ## Where's the important stuff?
 
