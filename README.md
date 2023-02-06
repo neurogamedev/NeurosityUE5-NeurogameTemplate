@@ -60,7 +60,7 @@ Make sure to add the folder where your project Scripts are as additional non-ass
 
 ![image](https://user-images.githubusercontent.com/88777150/133001784-82c17074-3fe2-40ec-a41b-ffab2cab2fe1.png)
 
-## Caveats
+## Problems
 
 - You need to add the Unreal Engine project path to your Environment Variables.
 - You won't be able to see your javascripts inside the UE editor. You'll have to access them from the file explorer and open them in your favorite code editor.
